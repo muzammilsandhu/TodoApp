@@ -65,3 +65,6 @@ _ReSharper.Caches/
 
 obj/
 bin/
+
+appsettings.json
+ToDoApp.sln
