@@ -1,0 +1,67 @@
+# Visual Studio-specific files
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.log
+
+# Rider / JetBrains IDE
+.idea/
+*.sln.iml
+
+# ASP.NET temporary files
+app.publish/
+node_modules/
+dist/
+bower_components/
+wwwroot/lib/
+
+# Configuration files
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Production.json
+secrets.json
+
+# Entity Framework migrations
+Migrations/
+
+# Logs and database files
+*.log
+*.ldb
+*.mdf
+*.ldf
+*.sqlite
+*.sqlite3
+*.db
+
+# Environment-specific files
+.env
+*.env.local
+*.local.settings.json
+
+# Publish artifacts
+publish/
+wwwroot/
+
+# NuGet Packages
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+nuget.lock
+
+# Resharper / Rider
+_ReSharper.Caches/
+
+obj/
+bin/
